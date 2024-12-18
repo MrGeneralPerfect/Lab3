@@ -1,0 +1,15 @@
+C:\Users\Perfect_Player\source\repos\Laba3\Laba3\bin\Debug\net8.0\Laba3.exe
+C:\Users\Perfect_Player\source\repos\Laba3\Laba3\bin\Debug\net8.0\Laba3.deps.json
+C:\Users\Perfect_Player\source\repos\Laba3\Laba3\bin\Debug\net8.0\Laba3.runtimeconfig.json
+C:\Users\Perfect_Player\source\repos\Laba3\Laba3\bin\Debug\net8.0\Laba3.dll
+C:\Users\Perfect_Player\source\repos\Laba3\Laba3\bin\Debug\net8.0\Laba3.pdb
+C:\Users\Perfect_Player\source\repos\Laba3\Laba3\obj\Debug\net8.0\Laba3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Perfect_Player\source\repos\Laba3\Laba3\obj\Debug\net8.0\Laba3.AssemblyInfoInputs.cache
+C:\Users\Perfect_Player\source\repos\Laba3\Laba3\obj\Debug\net8.0\Laba3.AssemblyInfo.cs
+C:\Users\Perfect_Player\source\repos\Laba3\Laba3\obj\Debug\net8.0\Laba3.csproj.CoreCompileInputs.cache
+C:\Users\Perfect_Player\source\repos\Laba3\Laba3\obj\Debug\net8.0\Laba3.dll
+C:\Users\Perfect_Player\source\repos\Laba3\Laba3\obj\Debug\net8.0\refint\Laba3.dll
+C:\Users\Perfect_Player\source\repos\Laba3\Laba3\obj\Debug\net8.0\Laba3.pdb
+C:\Users\Perfect_Player\source\repos\Laba3\Laba3\obj\Debug\net8.0\Laba3.genruntimeconfig.cache
+C:\Users\Perfect_Player\source\repos\Laba3\Laba3\obj\Debug\net8.0\ref\Laba3.dll
+C:\Users\Perfect_Player\source\repos\Laba3\Laba3\obj\Debug\net8.0\Laba3.sourcelink.json
